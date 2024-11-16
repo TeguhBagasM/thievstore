@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Link Backend
 
-[https](https://github.com/TeguhBagasM/thievstore-admin.git)
+[thievstore-admin](https://github.com/TeguhBagasM/thievstore-admin.git)
 
 ## Getting Started
 
